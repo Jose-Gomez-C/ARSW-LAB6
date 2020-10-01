@@ -23,6 +23,8 @@
 - Borre el canvas.
 - Haga DELETE de la función actualmente seleccionada.
 - Haga GET de las funciones ahora disponibles.
+## Resultado Cinema Bookings
+![Result](https://i.ibb.co/48tvQNm/resultado.png)
 ## Autores
 - Jose Luis Gomez Camacho 
 - Brayan Feliper Rojas Bernal 
